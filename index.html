@@ -81,24 +81,25 @@
                                         </div>
                                     </div>
                                     <div class="form-group col-12">
-                                        <div class="mb-3">
-                                            <button type="button" id="add-question-0" class="btn btn-success">Add Answer
-                                                Option</button>
-                                        </div>
                                         <div class="answer-options">
-                                            <div class="row">
+                                            <div>
+                                                <button type="button" class="btn btn-success add-answer-option">Add Answer Option</button>
+                                            </div>
+                                            <div class="row answer-option">
                                                 <div class="col-12">
-                                                    <label class="card-subtitle mb-2 font-weight-bold" for="quiz-answer-0">Quiz Answer Option </label>
+                                                    <label class="card-subtitle mb-2 font-weight-bold" for="quiz-answer-${currentQuestionCount}">Quiz Answer Option 0</label>
                                                     </div>
-                                                    <div class="col-12 col-sm-6 col-md-10">
-                                                    <input type="text" class="form-control answer-option" id="quiz-answer-0">
+                                                    <div class="col-12 col-sm-6 col-md-9">
+                                                    <input type="text" class="form-control" id="quiz-answer-${currentQuestionCount}">
                                                 </div>
-                                                <div class="col-12 col-sm-6 col-md-2">
-                                                    <button type="button" id="remove-quiz-answer-0" class="btn btn-danger disabled align-self-center">Remove Option</button>
+                                                <div class="col-12 col-sm-6 col-md-3">
+                                                    <button type="button" class="btn btn-danger disabled align-self-center remove-answer-option">Remove Option</button>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+
+
                                 </div>
                             </div>
 
