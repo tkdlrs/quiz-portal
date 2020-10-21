@@ -213,7 +213,7 @@ function renderQuiz(data, appender) {
     <form id="${cleanQuizTitle}-form">
         ${questionTemplate}
         <div class="float-right">
-            <p class="mt-2"><a href="https://www.usu.edu/privacy/">Privacy Notice</a></p>
+            <p class="mt-2"><a href="">Some important legalese</a></p>
             <button type="submit" class="btn btn-primary">Submit Quiz</button>
         </div>
       <br>
