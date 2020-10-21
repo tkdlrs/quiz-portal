@@ -1,0 +1,13 @@
+{
+    "quizName": "Practice",
+    "quizQuestion0": "What habit do you wish you could start?",
+    "quizQuestion0AnswerOptions": ["True", "False"],
+    "quizQuestion0CorrectAnswer": "True",
+    "quizQuestion1": "What snack can you just not get enough of?",
+    "quizQuestion1AnswerOptions": ["A I'm not sure, but you should consider this sentence: You can't fight science..... it has no face.", "B 50% of people feel ambiguity definitely smells like vomit. The other 50% aren't so sure. Does that answer your question?"],
+    "quizQuestion1CorrectAnswer": "A I'm not sure, but you should consider this sentence: You can't fight science..... it has no face.",
+    "quizQuestion2": "When was the last time you worked incredibly hard?",
+    "quizQuestion2AnswerOptions": ["A Do you own a fax machine? If not, don't do it.", "B Once, I saw someone receive a second hand shredder for their birthday... with paper still in it... from their parents. Are your problems worse than that?", "C Don't let petty analysis, the laws of physics or simple common sense get in the way of your dreams. Failure will get in the way before any of them."],
+    "quizQuestion2CorrectAnswer": "B Once, I saw someone receive a second hand shredder for their birthday... with paper still in it... from their parents. Are your problems worse than that?"
+
+}
